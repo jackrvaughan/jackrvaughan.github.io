@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="/mfh.png">
+
 ## Welcome
 
 Hi, you've reached my personal github page. I'm currently a prototype and demo developer at IBM Watson.
