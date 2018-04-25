@@ -13,4 +13,4 @@ Hi, you've reached my personal github page. I'm currently a prototype and demo d
 
 ### Contact
 
-You can reach me at `jackson.vaughan (at) stern.nyu.edu`
+`jackson.vaughan (at) stern.nyu.edu`
